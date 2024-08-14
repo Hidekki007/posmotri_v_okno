@@ -67,7 +67,7 @@ ol {
 
 /* ФОРМА */
 
-.visually-hidden {   /* сбрасываю браузерные стили для форм */
+.visually-hidden {   
   position: absolute;
   inline-size: 1px;
   block-size: 1px;
@@ -78,7 +78,7 @@ ol {
 } 
 
 input {
-  font-family: inherit;           /* поле ввода наследует шрифт и цвет текста от родителя */
+  font-family: inherit;           
   font-size: inherit;
   color: inherit;
   outline: none;
