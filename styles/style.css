@@ -50,9 +50,7 @@ ol {
 .result {
   min-inline-size: 711px;
   min-block-size: 456px;
-
 }
-
 .result__video-container {
   position: relative;
   inline-size: 711px;
