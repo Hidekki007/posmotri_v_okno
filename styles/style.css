@@ -144,8 +144,6 @@ input {
   font-size: 18px;
 }
 
-/* ЧЕКБОКС */
-
 .search-form__checkbox-list {
   display: flex;
   gap: 15px;
@@ -166,8 +164,6 @@ input {
   min-block-size: 15px;
   background-color: #fff;
 }
- 
-/* КНОПКИ */
 
 .button {
   cursor: pointer;
@@ -201,10 +197,6 @@ button:focus-visible {
  align-self: flex-end;
  min-inline-size: 194px;
  min-block-size: 34px;
-}
-
-.content__details {
-  
 }
 
 .title {
