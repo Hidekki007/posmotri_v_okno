@@ -48,8 +48,8 @@ ol {
 }
 
 .result {
-  min-block-size: 456px;
   min-inline-size: 711px;
+  min-block-size: 456px;
 
 }
 
